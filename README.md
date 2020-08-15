@@ -1,4 +1,4 @@
-### Hellow world! 👋
+### Hello world! 👋
 
 - 😄 Atualmente trabalho como freelancer na @sa.nef no instagram.
 - ⚡ Tenho buscado aprender php, mySQL e javascript.
