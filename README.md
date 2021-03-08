@@ -1,10 +1,10 @@
 ### Hello world! 👋
 
-- 😄 Atualmente trabalho como freelancer na [@filipesa.com.br](https://www.instagram.com/filipesa.com.br/) no instagram.
-- 📚 Conhecimento nunca é de mais, tenho buscado aprender automação de processos e realidade aumentada (AR).
+- 😄 Atualmente trabalho como estagiário e de vez em quando faço uns freela de Web Design.
+- 📚 Conhecimento nunca é demais, sempre busco conhecer as mais novas tecnologias do Front End.
 - 💬 Estou aprendendo a utilizar o Github e pretendendo postar alguns projetos e trabalhos que venho fazendo com o tempo.
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sa-filipe&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sa-filipe&show_icons=true&hide_border=true" />
 
 
 ### Contact with me:
