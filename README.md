@@ -10,4 +10,3 @@
 ### Contact with me:
 
 [![Website](https://img.shields.io/website?label=GitHub%20website&style=for-the-badge&url=https%3A%2F%2Fsa-filipe.github.io)](https://sa-filipe.github.io/)
-[![Instagram](https://img.shields.io/website?label=filipe.de.sa&logo=instagram&logoColor=fff&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/filipe.de.sa/)](https://www.instagram.com/filipe.de.sa/)
